@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+  <title id="title">Juanmi's Engineering Workbench</title>
+  <desc id="desc">A dark engineering sketchbook connecting people, product and systems. Grow people. Build things. Stay curious.</desc>
+  <defs>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#20313d" stroke-width="1"/></pattern>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101e29"/><stop offset="1" stop-color="#09121b"/></linearGradient>
+  </defs>
+  <rect width="1200" height="420" rx="20" fill="url(#bg)"/>
+  <rect width="1200" height="420" rx="20" fill="url(#grid)" opacity=".55"/>
+  <path d="M48 44h38M48 44v38M1152 376h-38M1152 376v-38" stroke="#eabb6d" stroke-width="2" fill="none"/>
+  <g font-family="ui-monospace, SFMono-Regular, Consolas, monospace">
+    <text x="80" y="82" font-size="14" letter-spacing="3" fill="#eabb6d">JUANMI / ENGINEERING WORKBENCH</text>
+    <text x="78" y="159" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="58" fill="#f2f4ed">Grow people.</text>
+    <text x="78" y="223" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="58" fill="#f2f4ed">Build things.</text>
+    <text x="78" y="287" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="58" fill="#8ee6cf">Stay curious.</text>
+    <text x="80" y="347" font-size="16" fill="#b9c8d0">TEAM LEAD. STILL A DEVELOPER.</text>
+    <g fill="none" stroke="#65998d" stroke-width="2">
+      <path d="M836 144L980 242L788 299Z"/>
+      <circle cx="836" cy="144" r="44" fill="#122b31"/>
+      <circle cx="980" cy="242" r="44" fill="#122b31"/>
+      <circle cx="788" cy="299" r="44" fill="#122b31"/>
+    </g>
+    <g fill="#8ee6cf" font-size="22" text-anchor="middle"><text x="836" y="152">01</text><text x="980" y="250">02</text><text x="788" y="307">03</text></g>
+    <g fill="#d4dfdf" font-size="14" letter-spacing="2"><text x="899" y="140">PEOPLE</text><text x="1040" y="247">PRODUCT</text><text x="845" y="325">SYSTEMS</text></g>
+    <circle cx="911" cy="208" r="5" fill="#eabb6d"/>
+    <text x="720" y="82" font-size="12" letter-spacing="2" fill="#9bafba">IDEA → EXPERIMENT → IMPACT</text>
+  </g>
+</svg>
